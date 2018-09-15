@@ -1,14 +1,12 @@
 ## Hello From Delano
 
 ### App Description
-`TODO://` This is a simple app
+This is a simple app that allow you to change the color of the textview and the screen. It also allows you to input custom text to change on the screen
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://i.imgur.com/gRaS1mQ.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
